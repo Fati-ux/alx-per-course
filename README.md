@@ -1,1 +1,1 @@
-my first commit
+echo "my first commit"
